@@ -1,0 +1,25 @@
+pc@DESKTOP-HBEU9II MINGW64 /d/_a
+$ cd chenguan345.github.io/
+
+pc@DESKTOP-HBEU9II MINGW64 /d/_a/chenguan345.github.io (main)
+$ cd /d/_a/chenguan345.github.io/
+
+pc@DESKTOP-HBEU9II MINGW64 /d/_a/chenguan345.github.io (main)
+$ git add -A
+
+pc@DESKTOP-HBEU9II MINGW64 /d/_a/chenguan345.github.io (main)
+$ git commit -m "practice"
+[main 7aea468] practice
+ 1 file changed, 14 insertions(+)
+ create mode 100644 imdeo.html
+
+pc@DESKTOP-HBEU9II MINGW64 /d/_a/chenguan345.github.io (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 477 bytes | 477.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/chenguan345/chenguan345.github.io.git
+   93e383e..7aea468  main -> main
